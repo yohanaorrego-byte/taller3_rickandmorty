@@ -88,3 +88,11 @@ Este proyecto simula un flujo real de Ciencia de Datos en tres fases:
 - Inspección básica: `head()`, `info()` y verificación de nulos y valores `"unknown"`.
 - Cinco insights numéricos: distribución por estado, personaje con más episodios, promedio de episodios por personaje, especie más común y origen más frecuente.
 - Tres gráficos: torta por género, barras con el top 10 de especies e histograma del número de episodios por personaje.
+s
+## Resultados principales
+
+- De 826 personajes, 439 están vivos (53.1%), 287 muertos (34.7%) y 100 en estado desconocido.
+- Rick Sanchez es el personaje que aparece en más episodios (51).
+- En promedio un personaje aparece en 1.53 episodios; el 88% aparece en un solo episodio.
+- La especie más común es Human (44.3% de los personajes).
+- El origen conocido más frecuente es Earth (Replacement Dimension), con 155 personajes; el 36.3% tiene origen desconocido.
