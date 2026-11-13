@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciales (por ejemplo, la cadena de conexión de MongoDB Atlas)
+.env
+
+# Archivos del sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
