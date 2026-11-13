@@ -1,6 +1,7 @@
 # Taller 3 — APIs Públicas, MongoDB y EDA
 
 **Curso:** Bases de Datos para Ciencia de Datos — Docente: Miguel Ramos García
+
 **Estudiante:** Ingrid Yohana Orrego García 
 
 ## Descripción del proyecto
